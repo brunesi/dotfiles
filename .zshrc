@@ -10,11 +10,17 @@ fi
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+# novos para github:
+export ZSH_CUSTOM_PLUGINS="$HOME/github/dotfiles/plugins"
+export ZSH_CUSTOM_THEMES="$HOME/github/dotfiles/themes"
+
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+# era: ZSH_THEME="powerlevel10k/powerlevel10k"
+# novo para github:
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Set list of themes to pick from when loading at random
@@ -79,6 +85,10 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
+# com github:
+# source $ZSH_CUSTOM_PLUGINS/zsh-autosuggestions/zsh-autosuggestions.zsh
+# source $ZSH_CUSTOM_PLUGINS/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# era:
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
