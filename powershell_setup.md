@@ -12,7 +12,7 @@
 2. Open PowerShell 7, and the profile should be applied automatically.
 
 
-
+## Cloning locally and editing in PowerShell:
 
 1. **Cloning the `dotfiles` Repository:**
 
