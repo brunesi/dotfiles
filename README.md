@@ -6,6 +6,8 @@ This repository contains my personal configurations for Zsh, including my .zshrc
 
 Setting Up on a Fresh Environment
 
+! revisar parte do zsh
+
 Clone the Repository:
 
 git clone https://github.com/brunesi/dotfiles ~/github/dotfiles
