@@ -1,0 +1,62 @@
+Como usar no terminal / Micro:
+Ctrl+Shift+U, digitar o código, Enter ou Space
+
+Técnicos / engenharia
+00B0    °    grau
+00B1    ±    mais ou menos
+00B5    µ    micro
+03A9    Ω    ohm maiúsculo
+03C9    ω    ômega minúsculo
+03C0    π    pi
+0394    Δ    delta maiúsculo
+03B4    δ    delta minúsculo
+03BB    λ    lambda
+03C3    σ    sigma minúsculo
+03A3    Σ    sigma maiúsculo
+221E    ∞    infinito
+2248    ≈    aproximadamente
+2260    ≠    diferente
+2264    ≤    menor ou igual
+2265    ≥    maior ou igual
+2192    →    seta direita
+2190    ←    seta esquerda
+2191    ↑    seta cima
+2193    ↓    seta baixo
+21D2    ⇒    implica
+2206    ∆    incremento / delta
+221A    √    raiz
+222B    ∫    integral
+2202    ∂    derivada parcial
+
+Elétrica / lógica / símbolos úteis
+26A1    ⚡    energia / raio
+26A0    ⚠    aviso
+2713    ✓    check
+2717    ✗    erro / falha
+2718    ✘    erro forte
+25CF    ●    círculo cheio
+25CB    ○    círculo vazio
+25A0    ■    quadrado cheio
+25A1    □    quadrado vazio
+25B6    ▶    play / início
+23F8    ⏸    pausa
+23F9    ⏹    stop
+23FB    ⏻    power
+2699    ⚙    engrenagem
+1F527   🔧    chave inglesa
+1F50C   🔌    plugue
+1F50B   🔋    bateria
+1FAAB   🪫    bateria fraca
+1F697   🚗    carro
+1F6A8   🚨    alerta
+
+Texto / marcação
+2022    •    bullet
+2013    –    traço médio
+2014    —    travessão
+00A0         espaço não separável
+00D7    ×    multiplicação
+00F7    ÷    divisão
+00A7    §    seção
+00B2    ²    ao quadrado
+00B3    ³    ao cubo
