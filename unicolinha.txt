@@ -1,6 +1,25 @@
 Como usar no terminal / Micro:
 Ctrl+Shift+U, digitar o código, Enter ou Space
 
+Faixa Unicode          Bytes UTF-8    Exemplos
+────────────────────────────────────────────────────────
+U+0000 a U+007F        1 byte         A, 0, espaço, \n, .
+U+0080 a U+07FF        2 bytes        á, ç, é, Ω, µ
+U+0800 a U+FFFF        3 bytes        ✓, →, ⚠, 中
+U+10000 a U+10FFFF     4 bytes        🚧, 😀, 🔋, 🔌
+
+Caractere    Código Unicode    Bytes UTF-8    Observação
+──────────────────────────────────────────────────────────────
+A            U+0041            1 byte         ASCII comum
+ç            U+00E7            2 bytes        letra acentuada
+Ω            U+03A9            2 bytes        ohm / ômega
+µ            U+00B5            2 bytes        micro
+→            U+2192            3 bytes        seta direita
+✓            U+2713            3 bytes        check
+⚠            U+26A0            3 bytes        aviso
+🚧           U+1F6A7           4 bytes        construção
+😀           U+1F600           4 bytes        emoji
+
 Técnicos / engenharia
 00B0    °    grau
 00B1    ±    mais ou menos
