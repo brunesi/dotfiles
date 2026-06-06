@@ -1,0 +1,340 @@
+Unicode extra — colinha para terminal / Micro
+
+Uso:
+Ctrl+Shift+U, digitar o código, Enter ou Space
+
+Observação:
+Alguns símbolos e emojis têm largura dupla no terminal.
+Podem ficar desalinhados em logs, tabelas e código-fonte.
+Use principalmente em notas, comentários, Markdown e documentação.
+
+────────────────────────────────────────
+Setas
+────────────────────────────────────────
+
+2190    ←    seta esquerda
+2191    ↑    seta cima
+2192    →    seta direita
+2193    ↓    seta baixo
+2194    ↔    seta esquerda-direita
+2195    ↕    seta cima-baixo
+2196    ↖    seta diagonal noroeste
+2197    ↗    seta diagonal nordeste
+2198    ↘    seta diagonal sudeste
+2199    ↙    seta diagonal sudoeste
+21D0    ⇐    seta dupla esquerda
+21D1    ⇑    seta dupla cima
+21D2    ⇒    seta dupla direita / implica
+21D3    ⇓    seta dupla baixo
+21D4    ⇔    seta dupla esquerda-direita
+21B5    ↵    enter / retorno
+21BA    ↺    rotação anti-horária
+21BB    ↻    rotação horária
+
+────────────────────────────────────────
+Matemática / engenharia
+────────────────────────────────────────
+
+00B0    °    grau
+00B1    ±    mais ou menos
+00B2    ²    sobrescrito 2
+00B3    ³    sobrescrito 3
+00B5    µ    micro
+00D7    ×    multiplicação
+00F7    ÷    divisão
+03A9    Ω    ohm / ômega maiúsculo
+03C9    ω    ômega minúsculo
+03C0    π    pi
+03A0    Π    pi maiúsculo / produtório
+03A3    Σ    sigma maiúsculo / somatório
+03C3    σ    sigma minúsculo
+0394    Δ    delta maiúsculo
+03B4    δ    delta minúsculo
+03BB    λ    lambda
+03B1    α    alfa
+03B2    β    beta
+03B3    γ    gama
+03B8    θ    theta
+03A6    Φ    phi maiúsculo
+03C6    φ    phi minúsculo
+221A    √    raiz quadrada
+221E    ∞    infinito
+222B    ∫    integral
+222E    ∮    integral de contorno
+2202    ∂    derivada parcial
+2206    ∆    incremento / delta
+2207    ∇    nabla
+2248    ≈    aproximadamente
+2260    ≠    diferente
+2261    ≡    equivalente / idêntico
+2264    ≤    menor ou igual
+2265    ≥    maior ou igual
+2208    ∈    pertence
+2209    ∉    não pertence
+2282    ⊂    subconjunto
+2283    ⊃    superconjunto
+2229    ∩    interseção
+222A    ∪    união
+2200    ∀    para todo
+2203    ∃    existe
+2234    ∴    portanto
+2235    ∵    porque
+
+────────────────────────────────────────
+Elétrica / energia / hardware
+────────────────────────────────────────
+
+26A1    ⚡    raio / energia
+26A0    ⚠    aviso
+2699    ⚙    engrenagem
+23FB    ⏻    power
+23FC    ⏼    power on/off
+23FD    ⏽    power on
+23FE    ⏾    power sleep
+2301    ⌁    sinal alternado
+2393    ⎓    corrente contínua
+1F50C   🔌    plugue
+1F50B   🔋    bateria
+1FAAB   🪫    bateria fraca
+1F4BB   💻    computador
+1F5A5   🖥    desktop
+1F5A8   🖨    impressora
+1F4F6   📶    sinal wireless
+1F527   🔧    chave inglesa
+1FA9B   🪛    chave de fenda
+1F529   🔩    porca/parafuso
+1F6E0   🛠    ferramentas
+1F9F0   🧰    caixa de ferramentas
+1F9F2   🧲    ímã
+
+────────────────────────────────────────
+Status / diagnóstico / logs visuais
+────────────────────────────────────────
+
+2713    ✓    check
+2714    ✔    check forte
+2717    ✗    erro / xis
+2718    ✘    erro forte
+2753    ❓    pergunta
+2757    ❗    exclamação
+203C    ‼    dupla exclamação
+2049    ⁉    exclamação e interrogação
+2139    ℹ    informação
+2705    ✅    check verde
+274C    ❌    erro vermelho
+274E    ❎    xis em caixa
+26D4    ⛔    proibido / bloqueado
+1F6AB   🚫    proibido
+1F6A8   🚨    alerta / sirene
+1F7E2   🟢    círculo verde
+1F7E1   🟡    círculo amarelo
+1F534   🔴    círculo vermelho
+1F535   🔵    círculo azul
+1F7E0   🟠    círculo laranja
+1F7E3   🟣    círculo roxo
+1F7E4   🟤    círculo marrom
+26AA    ⚪    círculo branco
+26AB    ⚫    círculo preto
+
+────────────────────────────────────────
+Controle / mídia / estados
+────────────────────────────────────────
+
+25B6    ▶    play
+23F8    ⏸    pause
+23F9    ⏹    stop
+23FA    ⏺    record
+23ED    ⏭    próximo
+23EE    ⏮    anterior
+23E9    ⏩    avanço rápido
+23EA    ⏪    retrocesso rápido
+23EB    ⏫    subir rápido
+23EC    ⏬    descer rápido
+231B    ⌛    ampulheta
+23F3    ⏳    ampulheta em progresso
+23F0    ⏰    despertador
+23F1    ⏱    cronômetro
+23F2    ⏲    timer
+1F504   🔄    atualizar / recarregar
+1F501   🔁    repetir
+1F503   🔃    refresh vertical
+
+────────────────────────────────────────
+Formas geométricas simples
+────────────────────────────────────────
+
+25A0    ■    quadrado cheio
+25A1    □    quadrado vazio
+25AA    ▪    quadrado pequeno cheio
+25AB    ▫    quadrado pequeno vazio
+25B2    ▲    triângulo cima cheio
+25B3    △    triângulo cima vazio
+25BC    ▼    triângulo baixo cheio
+25BD    ▽    triângulo baixo vazio
+25C6    ◆    losango cheio
+25C7    ◇    losango vazio
+25CF    ●    círculo cheio
+25CB    ○    círculo vazio
+25CE    ◎    círculo duplo
+25D0    ◐    círculo metade esquerda
+25D1    ◑    círculo metade direita
+25D2    ◒    círculo metade inferior
+25D3    ◓    círculo metade superior
+2605    ★    estrela cheia
+2606    ☆    estrela vazia
+
+────────────────────────────────────────
+Box drawing / tabelas no terminal
+────────────────────────────────────────
+
+2500    ─    linha horizontal
+2502    │    linha vertical
+250C    ┌    canto superior esquerdo
+2510    ┐    canto superior direito
+2514    └    canto inferior esquerdo
+2518    ┘    canto inferior direito
+251C    ├    junção esquerda
+2524    ┤    junção direita
+252C    ┬    junção superior
+2534    ┴    junção inferior
+253C    ┼    cruzamento
+2550    ═    linha horizontal dupla
+2551    ║    linha vertical dupla
+2554    ╔    canto superior esquerdo duplo
+2557    ╗    canto superior direito duplo
+255A    ╚    canto inferior esquerdo duplo
+255D    ╝    canto inferior direito duplo
+2560    ╠    junção esquerda dupla
+2563    ╣    junção direita dupla
+2566    ╦    junção superior dupla
+2569    ╩    junção inferior dupla
+256C    ╬    cruzamento duplo
+
+────────────────────────────────────────
+Blocos / barras / progresso
+────────────────────────────────────────
+
+2588    █    bloco cheio
+2589    ▉    bloco 7/8
+258A    ▊    bloco 3/4
+258B    ▋    bloco 5/8
+258C    ▌    bloco metade esquerda
+258D    ▍    bloco 3/8
+258E    ▎    bloco 1/4
+258F    ▏    bloco 1/8
+2591    ░    sombra leve
+2592    ▒    sombra média
+2593    ▓    sombra forte
+2581    ▁    bloco baixo 1/8
+2582    ▂    bloco baixo 1/4
+2583    ▃    bloco baixo 3/8
+2584    ▄    bloco baixo 1/2
+2585    ▅    bloco baixo 5/8
+2586    ▆    bloco baixo 3/4
+2587    ▇    bloco baixo 7/8
+
+────────────────────────────────────────
+Texto / pontuação útil
+────────────────────────────────────────
+
+00A0         espaço não separável
+2022    •    bullet
+2023    ‣    bullet triangular
+25E6    ◦    bullet vazio
+2013    –    traço médio
+2014    —    travessão
+2018    ‘    aspas simples esquerda
+2019    ’    aspas simples direita
+201C    “    aspas duplas esquerda
+201D    ”    aspas duplas direita
+2026    …    reticências
+00A7    §    seção
+00B6    ¶    parágrafo
+00A9    ©    copyright
+00AE    ®    registrado
+2122    ™    trademark
+
+────────────────────────────────────────
+Pessoas / comunicação
+────────────────────────────────────────
+
+1F600   😀    sorriso
+1F642   🙂    sorriso leve
+1F609   😉    piscando
+1F914   🤔    pensando
+1F928   🤨    desconfiado
+1F62C   😬    tenso
+1F605   😅    riso nervoso
+1F602   😂    rindo
+1F44D   👍    joinha
+1F44E   👎    negativo
+1F44B   👋    aceno
+1F64F   🙏    obrigado / oração
+1F4AC   💬    balão de fala
+1F4AD   💭    pensamento
+1F4E3   📣    megafone
+1F4E2   📢    alto-falante
+
+────────────────────────────────────────
+Documentos / organização
+────────────────────────────────────────
+
+1F4C4   📄    documento
+1F4C3   📃    página
+1F4D1   📑    abas
+1F4CB   📋    prancheta
+1F4CC   📌    pin
+1F4CD   📍    marcador
+1F4CE   📎    clipe
+1F4C1   📁    pasta
+1F4C2   📂    pasta aberta
+1F5C2   🗂    fichário
+1F5D2   🗒    bloco de notas
+1F4DD   📝    anotação
+1F50D   🔍    lupa esquerda
+1F50E   🔎    lupa direita
+1F512   🔒    cadeado
+1F513   🔓    cadeado aberto
+1F511   🔑    chave
+
+────────────────────────────────────────
+Veículos / eletroposto / campo
+────────────────────────────────────────
+
+1F697   🚗    carro
+1F699   🚙    SUV
+1F68C   🚌    ônibus
+1F69A   🚚    caminhão
+1F3CD   🏍    moto
+1F6B2   🚲    bicicleta
+26FD    ⛽    bomba de combustível
+1F6E3   🛣    estrada
+1F6A7   🚧    obra
+1F6A6   🚦    semáforo
+1F5FA   🗺    mapa
+1F4CD   📍    localização
+1F9ED   🧭    bússola
+
+────────────────────────────────────────
+Natureza / cozinha / uso geral
+────────────────────────────────────────
+
+2600    ☀    sol
+2601    ☁    nuvem
+2614    ☔    chuva
+2744    ❄    neve
+1F525   🔥    fogo
+1F4A7   💧    gota
+1F331   🌱    broto
+1F33F   🌿    erva
+1F343   🍃    folha
+1F345   🍅    tomate
+1F955   🥕    cenoura
+1F966   🥦    brócolis
+1F9C4   🧄    alho
+1F9C5   🧅    cebola
+1F35E   🍞    pão
+1F373   🍳    cozinhando
+1F958   🥘    panela
+1F374   🍴    garfo e faca
+1F52A   🔪    faca
