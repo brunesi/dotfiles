@@ -1,0 +1,10 @@
+~/.config/micro/settings.json
+sudo apt install clangd
+
+{
+    "showchars": "space=·",
+    "tabsize": 2,
+    "tabstospaces": true,
+    "lsp.server": "python=pylsp,c=clangd,c++=clangd",
+    "lsp.formatOnSave": true
+}
